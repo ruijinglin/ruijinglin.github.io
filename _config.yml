@@ -1,7 +1,7 @@
 # Basic
 title: Ruijinglin
 subtitle:
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+
 description: 安安静静撸码，老老实实做人.
 creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -21,9 +21,6 @@ blog_button:
     description: Visit blog
 
 # Navigation buttons in the front page.
-nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
 gems: [jekyll-paginate]
